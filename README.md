@@ -6,3 +6,5 @@ Repository for students of the course of Videojuegos in 1st Bachillerato
 ## Teacher repository and classmates
 - [d-prieto](https://github.com/d-prieto/J25-Programming)
 - [lizardMestre689](https://github.com/LizardMestre689/VideoJuegosHL)
+
+
