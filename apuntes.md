@@ -1,4 +1,4 @@
-  # Apuntes Videojugos
+# Apuntes Videojugos
 ## Datos Fungibles y no Fungibles
 Los NFT son una estafa, es similar a las criptomonedas, al igual que un euro tiene un valor que ha sido anteriormente dado por una sociedad. Por otro lado, las criptomonedas son un tipo de especulación, que se especula que tendrán un valor en el futuro, no en el presente sino en el futuro. Pasar criptomonedas a otra persona querrá decir que será publica la transacción, no como en un banco, que será privado. Al segundo solo se pueden hacer un total de 15 transacciones en todo el planeta, el procesador se pone a resolver un puzle y los pone en una cola para hacer la transacción. 
 
@@ -29,7 +29,7 @@ Tiene un valor no clasificado en el que, por un tiempo, una gran parte de la pob
 ![download](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/8fb9c850-58cf-4d21-85e5-6f6d201fdc13)
 
 
-Compra de Estrellas:  Con las compras de las estrellas pasa lo mismo. La compra de estas no significa nada en el mundo real. Lo que quiero decir es que, al comprar supuestamente una estrella, lo que simplemente estás haciendo es comprar un documento o trozo de papel que dice que tienes una estrella a tu nombre y simplemente eso. 	
+**Compra de estrellas**:  Con las compras de las estrellas pasa lo mismo. La compra de estas no significa nada en el mundo real. Lo que quiero decir es que, al comprar supuestamente una estrella, lo que simplemente estás haciendo es comprar un documento o trozo de papel que dice que tienes una estrella a tu nombre y simplemente eso. 	
 
 
 Es imposible comprar una estrella y aun menos cambiarle el nombre porque a alguien le plazca. Y lastimosamente las personas que hayan caído en la estafa de comprar una supuesta estrella, solo han logrado perder dinero y ganarse un trozo de papel que no les sirve para nada.
