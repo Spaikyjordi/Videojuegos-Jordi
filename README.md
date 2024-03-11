@@ -7,4 +7,5 @@ Repository for students of the course of Videojuegos in 1st Bachillerato
 - [d-prieto](https://github.com/d-prieto/J25-videogames)
 - [lizardMestre689](https://github.com/LizardMestre689/VideoJuegosHL)
 
-
+## Apuntes de clase
+- [Apuntes de NFT](https://github.com/Spaikyjordi/Videojuegos-Jordi/blob/main/apuntes.md)
