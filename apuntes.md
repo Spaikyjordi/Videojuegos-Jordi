@@ -42,3 +42,8 @@ World coin es una estafa que consiste en escanear tu retina (y guardarla para lu
 ## Crypto currency
 ### Que es?
 La regulación de las criptomonedas se refiere a las leyes, normas y pautas establecidas por los gobiernos y organismos reguladores para gobernar el uso, el comercio y la tributación de las criptomonedas.
+
+## Fun Facts
+- El creador de Bitcoin, Satoshi Nakamoto, es un seudónimo y la identidad real sigue siendo desconocida hasta la fecha.
+- En 2010, alguien pagó 10,000 bitcoins por dos pizzas. Hoy en día, esa cantidad de bitcoins valdría millones de dólares.
+- En algunos países, como El Salvador, Bitcoin se ha adoptado como moneda de curso legal junto con la moneda nacional.
