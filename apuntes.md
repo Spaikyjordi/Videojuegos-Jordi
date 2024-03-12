@@ -38,3 +38,7 @@ World coin es una estafa que consiste en escanear tu retina (y guardarla para lu
 
 
 ![download](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/1c33213c-e779-4ccb-807b-3eafcec50495)
+
+## Crypto currency
+### Que es?
+La regulación de las criptomonedas se refiere a las leyes, normas y pautas establecidas por los gobiernos y organismos reguladores para gobernar el uso, el comercio y la tributación de las criptomonedas.
