@@ -36,6 +36,6 @@ Diferentes personajes con diferentes historias que al final se juntan (o no) par
  - **Connor (muere salvando a la niña)**: Reensamblan a Connor con sus memorias pero no te ascienden y acabas trabajando en la oficina. (Vendra Mia a pedir ayuda).
 
 
-   **James**:
+**James**:
    - **James (preguntas por hermano)**: El señor mayor llama a su hijo y el hijo le dice que necesita dinero (te preguntara por consejo (dar o no dar)). (Si das, el hijo vendra en el siguiente capitulo y cogera el dinero (pasara algo malo).
    - **James (preguntas por trabajo)**: Te explicara que hizo y te comentara el problema que tiene con su hijo. Y decidira llamare. El hijo le dice que necesita dinero (te preguntara por consejo (dar o no dar dinero)). (Si das, el hijo vendra en el siguiente capitulo y cogera el dinero (pasara algo malo, despues iras a comisaria a pedir ayuda en el siguiente capitulo).
