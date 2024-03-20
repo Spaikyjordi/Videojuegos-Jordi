@@ -50,3 +50,6 @@ Diferentes personajes con diferentes historias que al final se juntan (o no) par
 - **Connor(entras solo a la casa)**: Peleas con el padre y consigues salvar a la niña y a Mia. (Opcion de matarlo o dejarlo vivir) (si le dejas vivir cojera un cuchillo y te matara permanentemente pero Mia y la niña viviran)
 - **Connor(con mas gente)**: No hay problemas porque sois mas de uno y el padre se entrega por malos tratos y le das la opcion a Mia de ser poli o vivir vida normal.
 - **Connor (errante)**: LLegas a casa de James y entras pidiendo ayuda, te ayudan y te dejan quedarte a vivir. (vendra el hijo del pintor, se peleara con James por que no quiere robots y tu puedes decidir si ayudar a James a pelear o simplemente proteger al anciano).
+
+# CAMBIO DE PLANES
+Connor es el personaje principal y despues de tomar una cuantas decisiones, te puedes cruzar con Mia o con James. 
