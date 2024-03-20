@@ -31,9 +31,9 @@ Diferentes personajes con diferentes historias que al final se juntan (o no) par
   **Mia**: Primer dia de trabajo en la casa. El padre es un alcholico y la niña es muy timida. El padre le maltrata un poco (porque es un robot). Tareas de casa basicas y descubre algo del pasado de la familia. (Revelarte o no despues de lo que descubres(si te revelas justo llegara Connor solo o acompañado o quiza no porque no salva a la niña).
   ### Capitulo 2
     **Connor**:
-  - **Connor (si consigue salvar a la niña "pistola")**: Le ascienden y pasa a ser teniente y investiga otro caso relacionado con la familia de Mia. Encuentra la casa. **Opciones**: entrar solo a la casa (el padre te pega una paliza y quiza te mata o no), esperar al sigueinte dia (capitulo 3) y entrar con dos policias mas.
-  - **Connor (si no consigue salvar a la niña)**: Le hechan del cargo y pasa a ser un robot errante que llega a una mansion (Donde esta James).
-  - **Connor (mueres salvando a la niña)**: Reensamblan a Connor con sus memorias pero no te ascienden y acabas trabajando en la oficina. (Vendra Mia a pedir ayuda).
+ - **Connor (si consigue salvar a la niña "pistola")**: Le ascienden y pasa a ser teniente y investiga otro caso relacionado con la familia de Mia. Encuentra la casa. **Opciones**: entrar solo a la casa (el padre te pega una paliza y quiza te mata o no), esperar al sigueinte dia (capitulo 3) y entrar con dos policias mas.
+ - **Connor (si no consigue salvar a la niña)**: Le hechan del cargo y pasa a ser un robot errante que llega a una mansion (Donde esta James).
+ - **Connor (mueres salvando a la niña)**: Reensamblan a Connor con sus memorias pero no te ascienden y acabas trabajando en la oficina. (Vendra Mia a pedir ayuda).
 
 
     **James**:
