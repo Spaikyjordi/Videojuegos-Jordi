@@ -7,19 +7,16 @@ Diferentes personajes con diferentes historias que al final se juntan (o no) par
 - Detective/inspector
 - No confia en sus jefes y sus intenciones
 - Es un robot humanoide ayudante
-- No tiene sentimientos pero mientras avanza la trama desarrolla pensamientos propios.
 ### James
 - Hombre
 - Ayudante de un señor mayor
 - Servicial
 - Es un robot humanoide ayudante
-- No tiene sentimientos pero mientras avanza la trama desarrolla pensamientos propios.
 ### Mia
 - Mujer
 - Ayudante de una familia (solo padre e hija)
 - Servicial
 - Es un robot humanoide ayudante
-- No tiene sentimientos pero mientras avanza la trama desarrolla pensamientos propios.
   ## Desarrollo (mini explicación de cada cosa)
   ### Capitulo 1
     **Connor**: Llega a un atico y hay una persona que tiene de rehen a una chica en el borde del edificio (con una pistola) y esta sugiriendo que se va a tirar con la niña. Investiga el atico para ver que ha pasado mientras intentan convencer al asaltador, y toma diferentes decisiones y estas decisiones influiran en que ocurrira cuando hables con el asaltador **(coger pistola o no)**.
