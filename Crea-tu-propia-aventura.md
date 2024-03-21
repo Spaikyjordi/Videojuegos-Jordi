@@ -52,4 +52,4 @@ Diferentes personajes con diferentes historias que al final se juntan (o no) par
 - **Connor (errante)**: LLegas a casa de James y entras pidiendo ayuda, te ayudan y te dejan quedarte a vivir. (vendra el hijo del pintor, se peleara con James por que no quiere robots y tu puedes decidir si ayudar a James a pelear o simplemente proteger al anciano).
 
 # CAMBIO DE PLANES
-Connor es el personaje principal y despues de tomar una cuantas decisiones, te puedes cruzar con Mia o con James. 
+Connor es el personaje principal y despues de tomar una cuantas decisiones, te puedes cruzar con Mia o con James. La historia de Connor es la misma pero en vez de haber varias ramas de diferentes personajes todo sale de la historia de Connor. Es decir que dependiendo de las decisiones que tomes, Mia o James apareceran.
