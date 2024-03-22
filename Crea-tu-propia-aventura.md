@@ -1,6 +1,10 @@
 # Crea tu propia aventura
 ## Concepto
 Es el año 2044 y los robots humanoides están tomando los puestos de trabajo de las personas. Nuestro personaje princial Connor es un inspector de policia que esta especialicado en invetigación de casos. A lo largo de la historia Connor tendra que tomar decisiones que decidiran su futuro...
+## Boceto
+![de57e428-f0de-43eb-822b-f2be4028c8a2](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/945eb2ee-f057-4634-82ea-6078108502ac)
+
+
 ## Personajes
 ### Connor
 - Hombre
