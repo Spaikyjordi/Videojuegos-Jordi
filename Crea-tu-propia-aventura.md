@@ -52,7 +52,7 @@ Es el año 2044 y los robots humanoides están tomando los puestos de trabajo de
 Connor es el personaje principal y despues de tomar una cuantas decisiones, te puedes cruzar con Mia o con James. La historia de Connor es la misma pero en vez de haber varias ramas de diferentes personajes todo sale de la historia de Connor. Es decir que dependiendo de las decisiones que tomes, Mia o James apareceran.
 
 # Imagenes 
-BY-NC-SA 3.0 DEED
+**BY-NC-SA 3.0 DEED**
 
 
 ![d91v90c-4424f46e-fbb1-45af-9dc2-78120339a39a](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/5ad33f65-3fdc-4c90-a585-d6052d87929b)
@@ -60,7 +60,7 @@ BY-NC-SA 3.0 DEED
 
 [Link](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/5ad33f65-3fdc-4c90-a585-d6052d87929b)
 ---
-CC0 Dominio publico
+**CC0 Dominio publico**
 
 
 ![revolver_guns_firearms_handguns_weapon_pistol_trigger-1158878](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/c7302a2d-67da-41ee-b328-133eb81e7df3)
@@ -69,7 +69,7 @@ CC0 Dominio publico
 [Link](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/c7302a2d-67da-41ee-b328-133eb81e7df3)
 ---
 
-CC0 Dominio publico
+**CC0 Dominio publico**
 
 
 ![baseball_baseball_bat_sport_prato_grass_green_nature_game-498890](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/1fb418b2-d98e-461e-818a-8c5f3892bdae)
@@ -78,7 +78,7 @@ CC0 Dominio publico
 [Link](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/1fb418b2-d98e-461e-818a-8c5f3892bdae)
 
 ---
-CC0 Dominio publico
+**CC0 Dominio publico**
 
 
 ![knife_kitchen_knife_sharp_knife_sharp_cooking_cut_utensil_blade-1325334](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/e8c4fecb-fdd2-4e99-b9f3-fd5a98735085)
@@ -87,7 +87,7 @@ CC0 Dominio publico
 [Link](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/e8c4fecb-fdd2-4e99-b9f3-fd5a98735085)
 
 ---
-Creative Commons Attribution-Share Alike 4.0 International
+**Creative Commons Attribution-Share Alike 4.0 International**
 
 
 ![The_end_o_el_final](https://github.com/Spaikyjordi/Videojuegos-Jordi/assets/144990855/d09c76f4-d51f-4219-9f38-4a5c9bac3702)
