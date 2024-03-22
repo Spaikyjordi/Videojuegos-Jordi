@@ -1,6 +1,6 @@
 # Crea tu propia aventura
-## Trama
-Diferentes personajes con diferentes historias que al final se juntan (o no) para hacer o no hacer algo juntos al final. Cada personaje tiene sus cualidades y diferente desarrollo. La trama ocurre en 2044.
+## Concepto
+Es el año 2044 y los robots humanoides están tomando los puestos de trabajo de las personas. Nuestro personaje princial Connor es un inspector de policia que esta especialicado en invetigación de casos. A lo largo de la historia Connor tendra que tomar decisiones que decidiran su futuro...
 ## Personajes
 ### Connor
 - Hombre
